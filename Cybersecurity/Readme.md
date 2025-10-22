@@ -31,12 +31,6 @@ With ChatGPT’s help, I learned to manage users, configure firewalls, and insta
 Add your user to the `sudo` group safely:
 
 ```bash
-| Lesson                | Description                                                          |
-| --------------------- | -------------------------------------------------------------------- |
-| 🧠 Knowledge          | Learned how Linux handles permissions, users, and processes          |
-| 🔐 Security Awareness | Understood privilege separation and least-access principles          |
-| ⚙️ Efficiency         | Became confident in CLI-based configurations and automation          |
-| 🤖 AI Support         | Learned to integrate AI guidance into real-world cybersecurity setup |
 
 sudo usermod -aG sudo success
 groups success

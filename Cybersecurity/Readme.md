@@ -143,10 +143,10 @@ This repository is part of my **Cybersecurity Portfolio** and contains:
 
 ## 🚀 Future Projects
 
-* 🔸 Automate Ubuntu system hardening
-* 🔸 Document Wireshark and Nmap analysis workflows
-* 🔸 Build a secure VirtualBox lab with ISO-based VMs
-* 🔸 Explore VPN routing, encryption, and zero-trust access
+  🔸 Automate Ubuntu system hardening
+  🔸 Document Wireshark and Nmap analysis workflows
+  🔸 Build a secure VirtualBox lab with ISO-based VMs
+  🔸 Explore VPN routing, encryption, and zero-trust access
 
 ---
 

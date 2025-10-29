@@ -26,7 +26,7 @@ Each directory represents a stage in my **learning-to-expertise pathway**, blend
 
 > *Exploring digital defense, ethical hacking, and network resilience.*
 
-* **`tools/`** – Practical exercises and demonstrations of tools like **Wireshark**, **Nmap**, and **Burp Suite**.
+* **`practicals/`** – Practical exercises and demonstrations of tools like **Wireshark**, **Nmap**, and **Burp Suite**.
 * **`simulations/`** – Hands-on Packet Tracer labs and cybersecurity scenarios.
 * **`research/`** – Case studies, reports, and analytical write-ups on current cyber trends.
 * **`documentation/`** – Notes, summaries, and procedural documentation from coursework and independent studies.
